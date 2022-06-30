@@ -4,7 +4,7 @@ For this project I will be focusing on Content Based Recommendation System, as I
 I will be using the TMDB-500 dataset for this project simply because it provides me with many columns to work with which have very useful information like the plot of movie, details about the cast, crew, directors, duration of the film,run time etc. This will help me get insights for my data analysis.
 
 ## Key Takeaways:
-It is very important to analyze the key takeaway after completing a Project. So let’s discuss the Major Key Takeaways
+Let’s discuss the Major Key Takeaways
 
 ● Understanding of Missing Values Treatment
 
